@@ -4,7 +4,7 @@
 # Hi there, I'm a full stack web developer! 👋
 
 ## About Me
-I am an experienced Senior Web Developer with 8 years of experience in Wordpress, React.JS and Shopify, and passion in creating engaging and user-friendly websites that elevate your business to new heights.
+I am an experienced Senior Web Developer with 8 years of experience in Laravel, Wordpress, React.JS and Shopify, and passion in creating engaging and user-friendly websites that elevate your business to new heights.
 
 Need someone who will communicate clearly, care about your success, and anticipate options that minimize unwanted surprises? 
 
