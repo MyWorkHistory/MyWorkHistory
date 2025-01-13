@@ -37,9 +37,6 @@ Need someone who will communicate clearly, care about your success, and anticipa
 - ✅ Providing 90 days of cost-free bug-fixing after the project is completed.
 - ✅ Offering maintenance and support packages.
  
-## Contact Me
-- Email: chaowang318915@gmail.com
-- Skype: live:.cid.2d87b5c5ddaa2d6
 
 ## Let's Connect
 Feel free to reach out to me to discuss collaborations, job opportunities, or just to say hello! 😊
