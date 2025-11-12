@@ -1,85 +1,75 @@
 [![Header](https://stackify.com/wp-content/uploads/2020/09/what-is-lamp-stack-881x441-1.jpg "Header")](https://www.creative-tim.com/)
 
+I am a Senior Web Developer with 8+ years of experience in Laravel, WordPress, React.js, Vue.js, Python, and Shopify. I have a passion for creating engaging, user-friendly, and high-performance websites that help businesses grow and succeed.
 
-# Hi there, I'm a full stack web developer! 👋
+I focus on clear communication, proactive solutions, and minimizing surprises in every project.
 
-## About Me
-I am an experienced Senior Web Developer with 8 years of experience in Laravel, Wordpress, React.JS and Shopify, and passion in creating engaging and user-friendly websites that elevate your business to new heights.
+Skills
+WordPress
 
-Need someone who will communicate clearly, care about your success, and anticipate options that minimize unwanted surprises? 
+✅ Premium theme customization & development
+✅ Custom WordPress themes & plugin development
+✅ WooCommerce integration & plugin customization
+✅ PSD / HTML5 / CSS3 to WordPress theme conversion
+✅ Site performance optimization & maintenance
 
-## Skills
- -------------Wordpress-----------
-- ✅ Premium Theme Customization
-- ✅ Custom Designed Wordpress Themes
-- ✅ WooCommerce / Plugin Customization
-- ✅ WordPress maintenance
-- ✅ PSD / HML5 / CSS3 to WordPress Theme
-- ✅WordPress Theme Development
-- ✅ WordPress Page Speed Increasing
+React.js
 
-------------- React.JS----------------
-- ✅ Javascript/Typescript, HTML/CSS, Sass/LESS
-- ✅ React.JS - Redux, Next.JS, Gatsby
-- ✅ Bootstrap, Tailwind, Material UI, Styled Components
-- ✅ Integrate with Backend apis (Node.JS, Python, Laravel)
-- ✅ Restful API, Graphql, AWS.
-- ✅ React Native.
-- ✅ Contentful, ContentStack
+✅ JavaScript / TypeScript, HTML, CSS, Sass / LESS
+✅ React.js – Redux, Next.js, Gatsby
+✅ UI frameworks: Bootstrap, Tailwind, Material UI, Styled Components
+✅ API integration (Node.js, Python, Laravel) – RESTful & GraphQL
+✅ React Native & mobile-first development
+✅ CMS integration: Contentful, ContentStack
 
-------------- Vue.JS----------------
+Vue.js
 
-- ✅ Vue 2 & 3 – Mastery of both Options and Composition APIs
-- ✅ Vue CLI / Vite – Optimized dev tooling and build performance
-- ✅ Vue Router – Advanced routing strategies (nested routes, guards, dynamic segments)
-- ✅ Pinia (Modern) / Vuex (Legacy) – Scalable state management across modules
-- ✅ Nuxt 3 – SSR, static site generation (SSG), hybrid rendering, file-based routing
-- ✅ Design Systems & UI Kits – Built custom component libraries with reusable patterns
-- ✅ Advanced Component Patterns – Slots, mixins, composables, HOCs
-- ✅ Axios / Fetch / GraphQL (Apollo) – Complex API integration and error handling
-- ✅ Real-time Features – Firebase, WebSockets, and polling strategies
-- ✅ Backend Collaboration – RESTful API design, Swagger docs, or basic Node/Express stacks
-- ✅ Auth Integration – JWT, OAuth2, Firebase Auth, and role-based access control
-- ✅ Modular Architecture – Feature-based folder structure, domain separation
-- ✅ Internationalization (i18n) – Multilingual app support
-- ✅ Agile & Dev Collaboration – Jira, Notion, Slack, Figma, code reviews, pair programming
+✅ Vue 2 & 3 – Options & Composition API
+✅ Vue CLI / Vite – optimized tooling
+✅ Vue Router – advanced routing strategies
+✅ Pinia & Vuex – scalable state management
+✅ Nuxt 3 – SSR, SSG, hybrid rendering
+✅ Component libraries, slots, mixins, composables
+✅ Axios / Fetch / Apollo GraphQL – complex API integrations
+✅ Real-time features – Firebase, WebSockets
+✅ JWT / OAuth2 / Firebase Auth – secure authentication
+✅ i18n – multilingual apps
+✅ Agile collaboration: Jira, Notion, Slack, Figma
 
-------------- Python----------------
+Python / Django
 
-- ✅ Django 4+ / Python 3.10+
-- ✅ Class-Based Views (CBVs) & Function-Based Views (FBVs)
-- ✅ Django REST Framework (DRF)
-- ✅ Authentication (Session, JWT, OAuth2)
-- ✅ Custom Middleware & Signals
-- ✅ Django Admin Customization
-- ✅ Query Optimization & Caching
-- ✅ Asynchronous programming (async/await)
-- ✅ PostgreSQL / SQLite / MySQL
-- ✅ Deployment: Heroku, Vercel, Railway, VPS
-- ✅ Security best practices (CSRF, CORS, XSS)
-- 
-------------- Android (Kotlin / Java)----------------
-  
-- ✅ Android SDK, Jetpack Components
-- ✅ MVVM Architecture
-- ✅ Retrofit / Volley (Networking)
-- ✅ Room / SQLite (Local Database)
-- ✅ Firebase Integration (Auth, Firestore, Messaging)
-- ✅ Push Notifications
-- ✅ Background Services & WorkManager
-- ✅ Jetpack Compose (UI)
+✅ Django 4+, Python 3.10+
+✅ Class-Based & Function-Based Views
+✅ Django REST Framework (DRF)
+✅ Authentication: Session, JWT, OAuth2
+✅ Custom middleware & signals
+✅ Query optimization & caching
+✅ Asynchronous programming (async/await)
+✅ PostgreSQL / MySQL / SQLite
+✅ Deployment: Heroku, Vercel, Railway, VPS
+✅ Security best practices: CSRF, CORS, XSS
 
-------------- Shopify----------------
-- ✅ Customization of existing Shopify themes, templates, and Apps.
-- ✅ Development the custom Shopify 1.0 and 2.0 Themes from scratch.
-- ✅ ThemeKit and CLI
-- ✅ Integrate with the latest frameworks such as React.JS, Node.JS, Python.
-- ✅ Code debugging and optimization, Speed optimization, Conversion rate optimizations
-- ✅ Responsive design, UI/UX improvements
-- ✅ Providing 90 days of cost-free bug-fixing after the project is completed.
-- ✅ Offering maintenance and support packages.
- 
+Android (Kotlin / Java)
 
-## Let's Connect
-Feel free to reach out to me to discuss collaborations, job opportunities, or just to say hello! 😊
+✅ Android SDK & Jetpack Components
+✅ MVVM architecture
+✅ Networking: Retrofit, Volley
+✅ Local storage: Room, SQLite
+✅ Firebase – Auth, Firestore, Messaging
+✅ Push notifications, background services, WorkManager
+✅ Jetpack Compose (UI)
+
+Shopify
+
+✅ Custom Shopify theme development (1.0 & 2.0)
+✅ Theme & app customization
+✅ ThemeKit & CLI usage
+✅ Integrations with React.js, Node.js, Python
+✅ Speed & performance optimization
+✅ Responsive UI/UX improvements
+✅ Post-project bug-fixing & maintenance packages
+
+Let’s Connect
+
+I’m always open to collaborations, job opportunities, or just a friendly chat.
  
